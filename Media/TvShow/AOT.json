@@ -4,7 +4,18 @@
         "country": "Japan",
         "genres": ["Action","Horror","Fantasy","Mystery"],
         "imdb": "9.1",
-        "language": "Japan"
+        "language": "Japanese",
+        "first_episode_date": "April 7, 2013",
+        "last_episode_date": "November 5, 2023",
+        "mainImage": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTWW4wvzwA9V0xdjG-kF_yXQH__lV5ciORmTPCi4iO6OzxzhJi",
+        "images": [
+            "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13993632_b_v8_ab.jpg",
+            "https://m.media-amazon.com/images/M/MV5BNjY4MDQxZTItM2JjMi00NjM5LTk0MWYtOTBlNTY2YjBiNmFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "https://i.pinimg.com/originals/9f/2b/4b/9f2b4bd2550acc65ab3bb9237404ca67.jpg",
+            "https://i5.walmartimages.com/seo/Attack-on-Titan-Final-Season-Part-2-Blu-ray-DVD-CrunchyRoll_2385d264-b71a-4351-9baf-6fe346ac00c4.8dc931d48bacbf179bfc08b53e8dc81a.jpeg",
+            "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/09/attack-on-titan-season-4-part-2-everything-we-know.jpg"
+        ]
+
     },
 
     "episodesDetails":[
@@ -161,7 +172,7 @@
                 },
                 {
                     "number": "1-25",
-                    "title": "Attack on Titan Sinhala Subtitle 1x25",
+                    "title": "Attack on Titan Sinhala Subtitle 1x25 ( Season 01 Last Episode )",
                     "quality": "720p",
                     "downloadUrl": "https://drive.google.com/file/d/1CdiixFIf-9FiVnpWZ0E1-qKb_RyqKHoF/view?usp=drive_link"
                 }
@@ -171,7 +182,7 @@
             "season":{
                 "number": "2",
                 "title": "Season 2",
-                "year": "2013"
+                "year": "2017"
             },
             "episodes":[
                 {
@@ -242,9 +253,339 @@
                 },
                 {
                     "number": "2-12",
-                    "title": "Attack on Titan Sinhala Subtitle 2x12",
+                    "title": "Attack on Titan Sinhala Subtitle 2x12 ( Season 02 Last Episode )",
                     "quality": "720p",
                     "downloadUrl": "https://drive.google.com/file/d/1shJJSE6WOQIYAlkcbN6oVsYfP8gjFXcT/view?usp=drive_link"
+                }
+            ]
+        },
+        {
+            "season":{
+                "number": "3",
+                "title": "Season 3",
+                "year": "2019"
+            },
+            "episodes":[
+                {
+                    "number": "3x1",
+                    "title": "Attack on Titan Sinhala Subtitle 3x1",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-2",
+                    "title": "Attack on Titan Sinhala Subtitle 3x2",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-3",
+                    "title": "Attack on Titan Sinhala Subtitle 3x3",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-4",
+                    "title": "Attack on Titan Sinhala Subtitle 3x4",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-5",
+                    "title": "Attack on Titan Sinhala Subtitle 3x5",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-6",
+                    "title": "Attack on Titan Sinhala Subtitle 3x6",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-7",
+                    "title": "Attack on Titan Sinhala Subtitle 3x7",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-8",
+                    "title": "Attack on Titan Sinhala Subtitle 3x8",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-9",
+                    "title": "Attack on Titan Sinhala Subtitle 3x9",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-10",
+                    "title": "Attack on Titan Sinhala Subtitle 3x10",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-11",
+                    "title": "Attack on Titan Sinhala Subtitle 3x11",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-12",
+                    "title": "Attack on Titan Sinhala Subtitle 3x12",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-13",
+                    "title": "Attack on Titan Sinhala Subtitle 3x13",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-14",
+                    "title": "Attack on Titan Sinhala Subtitle 3x14",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-15",
+                    "title": "Attack on Titan Sinhala Subtitle 3x15",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-16",
+                    "title": "Attack on Titan Sinhala Subtitle 3x16",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-17",
+                    "title": "Attack on Titan Sinhala Subtitle 3x17",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-18",
+                    "title": "Attack on Titan Sinhala Subtitle 3x18",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-19",
+                    "title": "Attack on Titan Sinhala Subtitle 3x19",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-20",
+                    "title": "Attack on Titan Sinhala Subtitle 3x20",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-21",
+                    "title": "Attack on Titan Sinhala Subtitle 3x21",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "3-22",
+                    "title": "Attack on Titan Sinhala Subtitle 3x22 ( Season 03 Last Episode )",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                }
+            ]
+        },
+        {
+            "season":{
+                "number": "3",
+                "title": "Season 3",
+                "year": "2019"
+            },
+            "episodes":[
+                {
+                    "number": "4x1",
+                    "title": "Attack on Titan Sinhala Subtitle 4x1",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-2",
+                    "title": "Attack on Titan Sinhala Subtitle 4x2",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-3",
+                    "title": "Attack on Titan Sinhala Subtitle 4x3",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-4",
+                    "title": "Attack on Titan Sinhala Subtitle 4x4",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-5",
+                    "title": "Attack on Titan Sinhala Subtitle 4x5",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-6",
+                    "title": "Attack on Titan Sinhala Subtitle 4x6",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-7",
+                    "title": "Attack on Titan Sinhala Subtitle 4x7",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-8",
+                    "title": "Attack on Titan Sinhala Subtitle 4x8",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-9",
+                    "title": "Attack on Titan Sinhala Subtitle 4x9",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-10",
+                    "title": "Attack on Titan Sinhala Subtitle 4x10",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-11",
+                    "title": "Attack on Titan Sinhala Subtitle 4x11",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-12",
+                    "title": "Attack on Titan Sinhala Subtitle 4x12",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-13",
+                    "title": "Attack on Titan Sinhala Subtitle 4x13",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-14",
+                    "title": "Attack on Titan Sinhala Subtitle 4x14",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-15",
+                    "title": "Attack on Titan Sinhala Subtitle 4x15",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-16",
+                    "title": "Attack on Titan Sinhala Subtitle 4x16",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-17",
+                    "title": "Attack on Titan Sinhala Subtitle 4x17",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-18",
+                    "title": "Attack on Titan Sinhala Subtitle 4x18",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-19",
+                    "title": "Attack on Titan Sinhala Subtitle 4x19",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-20",
+                    "title": "Attack on Titan Sinhala Subtitle 4x20",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-21",
+                    "title": "Attack on Titan Sinhala Subtitle 4x21",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-22",
+                    "title": "Attack on Titan Sinhala Subtitle 4x22",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-23",
+                    "title": "Attack on Titan Sinhala Subtitle 4x23",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-24",
+                    "title": "Attack on Titan Sinhala Subtitle 4x24",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-25",
+                    "title": "Attack on Titan Sinhala Subtitle 4x25",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-26",
+                    "title": "Attack on Titan Sinhala Subtitle 4x26",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-27",
+                    "title": "Attack on Titan Sinhala Subtitle 4x27",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-28",
+                    "title": "Attack on Titan Sinhala Subtitle 4x28",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-29,30,31",
+                    "title": "Attack on Titan Sinhala Subtitle 4x29,30,31",
+                    "quality": "720p",
+                    "downloadUrl": ""
+                },
+                {
+                    "number": "4-32",
+                    "title": "Attack on Titan Sinhala Subtitle 4x32 ( Season 04 Last Episode )",
+                    "quality": "720p",
+                    "downloadUrl": ""
                 }
             ]
         }
